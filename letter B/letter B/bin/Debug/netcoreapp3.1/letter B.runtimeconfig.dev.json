@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EGY FIX LAB\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EGY FIX LAB\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

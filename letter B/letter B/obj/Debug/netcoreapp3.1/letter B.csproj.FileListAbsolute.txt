@@ -1,0 +1,13 @@
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.exe
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.deps.json
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.runtimeconfig.json
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.runtimeconfig.dev.json
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.dll
+D:\Draw with C#\letter B\letter B\bin\Debug\netcoreapp3.1\letter B.pdb
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.csprojAssemblyReference.cache
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.AssemblyInfoInputs.cache
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.AssemblyInfo.cs
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.dll
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.pdb
+D:\Draw with C#\letter B\letter B\obj\Debug\netcoreapp3.1\letter B.genruntimeconfig.cache
